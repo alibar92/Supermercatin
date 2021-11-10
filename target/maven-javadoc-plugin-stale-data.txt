@@ -1,0 +1,61 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/barto/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar;C:/Users/barto/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ManejoJDBC_Transacciones 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ManejoJDBC_Transacciones 1.0-SNAPSHOT API'
+datos
+domain
+test
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/datos/ClienteDAO.java'
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/datos/Conexion.java'
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/datos/ProductoDAO.java'
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/domain/Cliente.java'
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/domain/Producto.java'
+'C:/Users/barto/OneDrive/Documents/NetBeansProjects/TransaccionesJDBC/src/main/java/test/SupercomprinMain.java'
+C:\Users\barto\.m2\repository\mysql\mysql-connector-java\8.0.19\mysql-connector-java-8.0.19.jar = 1633870789306
+C:\Users\barto\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1633870789241
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\src\main\java = 1636489309619
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\allclasses-index.html = 1636542185340
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\allclasses.html = 1636542185355
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\allpackages-index.html = 1636542185340
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\constant-values.html = 1636542185089
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\deprecated-list.html = 1636542185355
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\element-list = 1636542185011
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\help-doc.html = 1636542185386
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\index-all.html = 1636542185324
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\index.html = 1636542185371
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\member-search-index.js = 1636542185308
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\member-search-index.zip = 1636542185324
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\overview-summary.html = 1636542185371
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\overview-tree.html = 1636542185246
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\package-search-index.js = 1636542185293
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\package-search-index.zip = 1636542185293
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\script.js = 1636542185402
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\search.js = 1636542185402
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\stylesheet.css = 1636542185402
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\type-search-index.js = 1636542185308
+C:\Users\barto\OneDrive\Documents\NetBeansProjects\TransaccionesJDBC\target\site\apidocs\type-search-index.zip = 1636542185308

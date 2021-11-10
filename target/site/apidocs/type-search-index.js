@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"domain","l":"Cliente"},{"p":"datos","l":"ClienteDAO"},{"p":"datos","l":"Conexion"},{"p":"domain","l":"Producto"},{"p":"datos","l":"ProductoDAO"},{"p":"test","l":"SupercomprinMain"}]
